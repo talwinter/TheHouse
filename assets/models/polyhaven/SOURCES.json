@@ -1,0 +1,288 @@
+{
+  "source": "Poly Haven (3D models)",
+  "license": "CC0 1.0",
+  "homepage": "https://polyhaven.com",
+  "assets": {
+    "Sofa_01": {
+      "slug": "Sofa_01",
+      "files": 5
+    },
+    "ArmChair_01": {
+      "slug": "ArmChair_01",
+      "files": 5
+    },
+    "CoffeeTable_01": {
+      "slug": "CoffeeTable_01",
+      "files": 5
+    },
+    "Shelf_01": {
+      "slug": "Shelf_01",
+      "files": 5
+    },
+    "Television_01": {
+      "slug": "Television_01",
+      "files": 5
+    },
+    "Bed_Frame": {
+      "slug": "old_bed_frame",
+      "files": 5
+    },
+    "Desk": {
+      "slug": "SchoolDesk_01",
+      "files": 5
+    },
+    "Chair": {
+      "slug": "SchoolChair_01",
+      "files": 5
+    },
+    "WoodenChair": {
+      "slug": "painted_wooden_chair_01",
+      "files": 5
+    },
+    "OfficeDesk": {
+      "slug": "metal_office_desk",
+      "files": 5
+    },
+    "DrawerCabinet": {
+      "slug": "drawer_cabinet",
+      "files": 5
+    },
+    "DeskLamp": {
+      "slug": "desk_lamp_arm_01",
+      "files": 5
+    },
+    "Stove": {
+      "slug": "electric_stove",
+      "files": 5
+    },
+    "Cassette": {
+      "slug": "portable_cassette_player",
+      "files": 5
+    },
+    "BarrelStove": {
+      "slug": "barrel_stove",
+      "files": 5
+    },
+    "Microwave": {
+      "slug": "vintage_microwave",
+      "files": 5
+    },
+    "CardboardBox": {
+      "slug": "cardboard_box_01",
+      "files": 5
+    },
+    "Barrel": {
+      "slug": "Barrel_02",
+      "files": 5
+    },
+    "Fern": {
+      "slug": "fern_02",
+      "files": 5
+    },
+    "CeramicPot": {
+      "slug": "ceramic_pot",
+      "files": 5
+    },
+    "Frame_01": {
+      "slug": "fancy_picture_frame_01",
+      "files": 8
+    },
+    "Frame_02": {
+      "slug": "fancy_picture_frame_02",
+      "files": 8
+    },
+    "HangingFrame_01": {
+      "slug": "hanging_picture_frame_01",
+      "files": 8
+    },
+    "HangingFrame_02": {
+      "slug": "hanging_picture_frame_02",
+      "files": 8
+    },
+    "StreetLamp": {
+      "slug": "street_lamp_02",
+      "files": 5
+    },
+    "WallLamp": {
+      "slug": "industrial_wall_lamp",
+      "files": 9
+    },
+    "PaintedCabinet": {
+      "slug": "painted_wooden_cabinet",
+      "files": 5
+    },
+    "RoundCoffeeTable": {
+      "slug": "coffee_table_round_01",
+      "files": 5
+    },
+    "Mirror": {
+      "slug": "ornate_mirror_01",
+      "files": 5
+    },
+    "Bookshelf_Worn": {
+      "slug": "wooden_bookshelf_worn",
+      "url": "https://polyhaven.com/a/wooden_bookshelf_worn",
+      "license": "CC0 1.0"
+    },
+    "Nightstand": {
+      "slug": "painted_wooden_nightstand",
+      "url": "https://polyhaven.com/a/painted_wooden_nightstand",
+      "license": "CC0 1.0"
+    },
+    "ClassicNightstand": {
+      "slug": "ClassicNightstand_01",
+      "url": "https://polyhaven.com/a/ClassicNightstand_01",
+      "license": "CC0 1.0"
+    },
+    "VintageCabinet": {
+      "slug": "vintage_cabinet_01",
+      "url": "https://polyhaven.com/a/vintage_cabinet_01",
+      "license": "CC0 1.0"
+    },
+    "Wardrobe2": {
+      "slug": "painted_wooden_cabinet_02",
+      "url": "https://polyhaven.com/a/painted_wooden_cabinet_02",
+      "license": "CC0 1.0"
+    },
+    "Console": {
+      "slug": "ClassicConsole_01",
+      "url": "https://polyhaven.com/a/ClassicConsole_01",
+      "license": "CC0 1.0"
+    },
+    "WallClock": {
+      "slug": "wall_clock",
+      "url": "https://polyhaven.com/a/wall_clock",
+      "license": "CC0 1.0"
+    },
+    "SteelShelves": {
+      "slug": "steel_frame_shelves_01",
+      "url": "https://polyhaven.com/a/steel_frame_shelves_01",
+      "license": "CC0 1.0"
+    },
+    "WoodenCrate": {
+      "slug": "wooden_crate_01",
+      "url": "https://polyhaven.com/a/wooden_crate_01",
+      "license": "CC0 1.0"
+    },
+    "PottedPlant": {
+      "slug": "potted_plant_04",
+      "url": "https://polyhaven.com/a/potted_plant_04",
+      "license": "CC0 1.0"
+    },
+    "PottedPlant2": {
+      "slug": "potted_plant_02",
+      "url": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0 1.0"
+    },
+    "ThrowPillows": {
+      "slug": "throw_pillows_01",
+      "url": "https://polyhaven.com/a/throw_pillows_01",
+      "license": "CC0 1.0"
+    },
+    "KitchenTable": {
+      "slug": "WoodenTable_01",
+      "url": "https://polyhaven.com/a/WoodenTable_01",
+      "license": "CC0 1.0"
+    },
+    "DiningChair": {
+      "slug": "painted_wooden_chair_02",
+      "url": "https://polyhaven.com/a/painted_wooden_chair_02",
+      "license": "CC0 1.0"
+    },
+    "Suitcase": {
+      "slug": "vintage_suitcase",
+      "url": "https://polyhaven.com/a/vintage_suitcase",
+      "license": "CC0 1.0"
+    },
+    "SideTable": {
+      "slug": "side_table_01",
+      "url": "https://polyhaven.com/a/side_table_01",
+      "license": "CC0 1.0"
+    },
+    "CeilingLamp": {
+      "slug": "modern_ceiling_lamp_01",
+      "url": "https://polyhaven.com/a/modern_ceiling_lamp_01",
+      "license": "CC0 1.0"
+    },
+    "Kettle": {
+      "slug": "vintage_electric_kettle",
+      "url": "https://polyhaven.com/a/vintage_electric_kettle",
+      "license": "CC0 1.0"
+    },
+    "WickerBasket": {
+      "slug": "wicker_basket_01",
+      "url": "https://polyhaven.com/a/wicker_basket_01",
+      "license": "CC0 1.0"
+    },
+    "PullChainLight": {
+      "slug": "pull_chain_light_socket",
+      "url": "https://polyhaven.com/a/pull_chain_light_socket",
+      "license": "CC0 1.0"
+    },
+    "Crate2": {
+      "slug": "wooden_crate_02",
+      "url": "https://polyhaven.com/a/wooden_crate_02",
+      "license": "CC0 1.0"
+    },
+    "Television_02": {
+      "slug": "television_02",
+      "url": "https://polyhaven.com/a/television_02",
+      "license": "CC0 1.0"
+    },
+    "Stool": {
+      "slug": "wooden_stool_01",
+      "url": "https://polyhaven.com/a/wooden_stool_01",
+      "license": "CC0 1.0"
+    },
+    "SmallTable": {
+      "slug": "small_wooden_table_01",
+      "url": "https://polyhaven.com/a/small_wooden_table_01",
+      "license": "CC0 1.0"
+    },
+    "Bowl": {
+      "slug": "wooden_bowl_01",
+      "url": "https://polyhaven.com/a/wooden_bowl_01",
+      "license": "CC0 1.0"
+    },
+    "CuttingBoard": {
+      "slug": "wooden_cutting_board",
+      "url": "https://polyhaven.com/a/wooden_cutting_board",
+      "license": "CC0 1.0"
+    },
+    "PlanterPot": {
+      "slug": "planter_pot_clay",
+      "url": "https://polyhaven.com/a/planter_pot_clay",
+      "license": "CC0 1.0"
+    },
+    "RoundTable": {
+      "slug": "round_wooden_table_01",
+      "url": "https://polyhaven.com/a/round_wooden_table_01",
+      "license": "CC0 1.0"
+    },
+    "GothicBed": {
+      "slug": "GothicBed_01",
+      "url": "https://polyhaven.com/a/GothicBed_01",
+      "license": "CC0 1.0"
+    },
+    "Dresser": {
+      "slug": "vintage_wooden_drawer_01",
+      "url": "https://polyhaven.com/a/vintage_wooden_drawer_01",
+      "license": "CC0 1.0"
+    },
+    "RockingChair": {
+      "slug": "Rockingchair_01",
+      "url": "https://polyhaven.com/a/Rockingchair_01",
+      "license": "CC0 1.0"
+    },
+    "StandingFrame": {
+      "slug": "standing_picture_frame_01",
+      "url": "https://polyhaven.com/a/standing_picture_frame_01",
+      "license": "CC0 1.0"
+    },
+    "AlarmClock": {
+      "slug": "alarm_clock_01",
+      "url": "https://polyhaven.com/a/alarm_clock_01",
+      "license": "CC0 1.0"
+    }
+  }
+}

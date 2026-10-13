@@ -1,0 +1,152 @@
+{
+ "tea_cup": {
+  "category": "findings",
+  "location": "kitchen",
+  "chapter": 2,
+  "title": "Warm tea cup"
+ },
+ "mother_note": {
+  "category": "documents",
+  "location": "kitchen",
+  "chapter": 2,
+  "title": "Mother's note"
+ },
+ "photo_key": {
+  "category": "photos",
+  "location": "kitchen drawer",
+  "chapter": 2,
+  "title": "Family photo + key"
+ },
+ "clock_0217": {
+  "category": "findings",
+  "location": "corridor",
+  "chapter": 3,
+  "title": "Wall clock 02:17"
+ },
+ "folded_note": {
+  "category": "documents",
+  "location": "corridor frame",
+  "chapter": 3,
+  "title": "Folded note behind frame"
+ },
+ "noa_journal": {
+  "category": "documents",
+  "location": "noa room",
+  "chapter": 4,
+  "title": "Noa journal"
+ },
+ "box_empty": {
+  "category": "findings",
+  "location": "noa room",
+  "chapter": 4,
+  "title": "Empty box, 3 slots"
+ },
+ "carving": {
+  "category": "findings",
+  "location": "noa closet",
+  "chapter": 4,
+  "title": "Carving 2:17 / 3 knocks"
+ },
+ "camera_old": {
+  "category": "findings",
+  "location": "noa room",
+  "chapter": 4,
+  "title": "Old camera"
+ },
+ "tape1_living": {
+  "category": "tapes",
+  "location": "living",
+  "chapter": 4,
+  "title": "Tape 1 Noa+Miriam"
+ },
+ "versions_table": {
+  "category": "findings",
+  "location": "living",
+  "chapter": 8,
+  "title": "Three versions table"
+ },
+ "yoav_note": {
+  "category": "documents",
+  "location": "study",
+  "chapter": 5,
+  "title": "Yoav note"
+ },
+ "tapes_study": {
+  "category": "tapes",
+  "location": "study",
+  "chapter": 5,
+  "title": "Study tapes 2/3"
+ },
+ "repair_doc": {
+  "category": "documents",
+  "location": "study",
+  "chapter": 5,
+  "title": "Back-door repair order"
+ },
+ "house_plan": {
+  "category": "documents",
+  "location": "study",
+  "chapter": 5,
+  "title": "Marked house plan"
+ },
+ "bills": {
+  "category": "documents",
+  "location": "study",
+  "chapter": 5,
+  "title": "Bills and envelopes"
+ },
+ "miriam_letter": {
+  "category": "documents",
+  "location": "hidden",
+  "chapter": 6,
+  "title": "Miriam hidden letter"
+ },
+ "last_tape": {
+  "category": "tapes",
+  "location": "hidden",
+  "chapter": 6,
+  "title": "Last tape"
+ },
+ "storm_tape": {
+  "category": "tapes",
+  "location": "basement",
+  "chapter": 7,
+  "title": "Storm-night recorder"
+ },
+ "noa_farewell": {
+  "category": "documents",
+  "location": "basement",
+  "chapter": 7,
+  "title": "Noa farewell"
+ },
+ "calendar": {
+  "category": "findings",
+  "location": "bathroom",
+  "chapter": 2,
+  "title": "Calendar 3 dates"
+ },
+ "envelope": {
+  "category": "documents",
+  "location": "entry",
+  "chapter": 1,
+  "title": "Wet envelope"
+ },
+ "gate": {
+  "category": "findings",
+  "location": "garden",
+  "chapter": 1,
+  "title": "Garden gate"
+ },
+ "upper_window": {
+  "category": "findings",
+  "location": "upstairs landing",
+  "chapter": 3,
+  "title": "Window latch"
+ },
+ "back_door": {
+  "category": "findings",
+  "location": "kitchen",
+  "chapter": 2,
+  "title": "Back door, new lock"
+ }
+}

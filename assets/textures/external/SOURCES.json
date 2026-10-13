@@ -1,0 +1,77 @@
+{
+  "source": "Poly Haven",
+  "license": "CC0 1.0",
+  "homepage": "https://polyhaven.com",
+  "assets": {
+    "floor_wood": {
+      "slug": "wood_floor_deck",
+      "maps": {
+        "albedo": "floor_wood_albedo.jpg",
+        "normal": "floor_wood_normal.png",
+        "rough": "floor_wood_rough.png"
+      }
+    },
+    "wood_panel": {
+      "slug": "wood_planks_grey",
+      "maps": {
+        "albedo": "wood_panel_albedo.jpg",
+        "normal": "wood_panel_normal.png",
+        "rough": "wood_panel_rough.png"
+      }
+    },
+    "wood_dark_panel": {
+      "slug": "dark_wood",
+      "maps": {
+        "albedo": "wood_dark_panel_albedo.jpg",
+        "normal": "wood_dark_panel_normal.png",
+        "rough": "wood_dark_panel_rough.png"
+      }
+    },
+    "wall_plaster": {
+      "slug": "painted_plaster_wall",
+      "maps": {
+        "albedo": "wall_plaster_albedo.jpg",
+        "normal": "wall_plaster_normal.png",
+        "rough": "wall_plaster_rough.png"
+      }
+    },
+    "concrete": {
+      "slug": "chipped_concrete",
+      "maps": {
+        "albedo": "concrete_albedo.jpg",
+        "normal": "concrete_normal.png",
+        "rough": "concrete_rough.png"
+      }
+    },
+    "floor_tile": {
+      "slug": "floor_tiles_02",
+      "maps": {
+        "albedo": "floor_tile_albedo.jpg",
+        "normal": "floor_tile_normal.png",
+        "rough": "floor_tile_rough.png"
+      }
+    },
+    "fabric_blue": {
+      "slug": "fabric_pattern_07",
+      "maps": {
+        "normal": "fabric_blue_normal.png",
+        "rough": "fabric_blue_rough.png"
+      }
+    },
+    "metal_dark": {
+      "slug": "metal_plate_02",
+      "maps": {
+        "albedo": "metal_dark_albedo.jpg",
+        "normal": "metal_dark_normal.png",
+        "rough": "metal_dark_rough.png"
+      }
+    },
+    "paper": {
+      "slug": "book_pattern",
+      "maps": {
+        "normal": "paper_normal.png",
+        "rough": "paper_rough.png"
+      }
+    }
+  }
+}

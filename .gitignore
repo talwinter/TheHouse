@@ -1,0 +1,17 @@
+# Godot cache / imports (regenerated on open)
+.godot/
+*.translation
+*.tmp
+
+# Builds
+build/
+
+# Test output (screenshots, catalogs)
+tests/shots/
+tests/shots_*/
+tests/catalog/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp

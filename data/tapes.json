@@ -1,0 +1,26 @@
+{
+  "tape1_living": {
+    "title": "Tape 1 — Noa and Mom",
+    "dur": 9.0,
+    "lines": "Noa: \"Do you remember what happened after the third knock?\"\nMiriam: \"I remember what I did.\"\nNoa: \"That's not the same thing.\"\nMiriam: \"No. It isn't.\"\n[a chair drags. four seconds of silence.]\nMiriam: \"If Eitan comes back, don't tell him what you think. Let him see.\"",
+    "clue": "tape1_living"
+  },
+  "study_tapes": {
+    "title": "Study tapes (2 of 3)",
+    "dur": 10.0,
+    "lines": "[Tape A — storm, a distant argument, three knocks, long silence.]\n[Tape B — Yoav, tired:] \"...reset the rear lock. The door wasn't forced from outside. I heard them — from inside.\"\n[The third slot is empty.]",
+    "clue": "tapes_study"
+  },
+  "last_tape": {
+    "title": "Last tape — do not rewind",
+    "dur": 8.0,
+    "lines": "[Heavy rain. Pipe noise. Three distant knocks.]\nA man's voice, faint: \"I know you're in there.\"\n[Long silence.]\nAnother voice, barely audible: \"Don't open.\"\n[The tape cuts before either voice can be named.]",
+    "clue": "last_tape"
+  },
+  "storm_full": {
+    "title": "Storm-night recorder",
+    "dur": 14.0,
+    "lines": "[Full night: wind rising, gutters, a slammed door far away.]\n Raised voices — too far to separate.\n[Storm peak. Then, clearly, three knocks.]\n[Silence. Only rain. Then the same sequence again — fainter, unsynced, as if the house itself remembered it wrong.]",
+    "clue": "storm_tape"
+  }
+}
